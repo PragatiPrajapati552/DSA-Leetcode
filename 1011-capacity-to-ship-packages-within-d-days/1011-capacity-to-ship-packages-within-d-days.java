@@ -31,8 +31,6 @@ class Solution {
                 ans = mid;
                 max = mid-1;
             }
-            else if(day < days)
-            max = mid-1;
             else
             min = mid+1;
         }
