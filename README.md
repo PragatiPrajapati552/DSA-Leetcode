@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
