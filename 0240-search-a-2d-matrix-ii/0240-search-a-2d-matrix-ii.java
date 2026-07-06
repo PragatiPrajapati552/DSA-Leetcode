@@ -6,9 +6,9 @@ class Solution {
             
             if(matrix[row][col] == target)
             return true;
-            else if(matrix[row][col] < target)
+            else if(matrix[row][col] < target)      //moving right if value is low
             col++;
-            else
+            else        //moving up if vlaue is higher, cause if first is bigger then it won't be in that row
             row--;
         }
         return false;
