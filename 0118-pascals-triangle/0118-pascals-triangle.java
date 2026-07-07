@@ -2,23 +2,21 @@ import java.util.*;
 
 class Solution {
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> result = new ArrayList<>();
+        List<List<Integer>> main = new ArrayList<>();
 
         for (int i = 0; i < numRows; i++) {
-            List<Integer> row = new ArrayList<>();
-            
-            row.add(1); // first element
-            
-            for (int j = 1; j < i; j++) {
-                int val = result.get(i - 1).get(j - 1) + result.get(i - 1).get(j);
-                row.add(val);
+            List<Integer> list = new ArrayList<>();     //it shows that we are using arraylist from List interface
+
+            for (int j = 0; j <= i; j++) {
+                if (j == 0 || j == i)
+                    list.add(1);
+                else
+                    list.add(main.get(i - 1).get(j - 1) + main.get(i - 1).get(j));
             }
-            
-            if (i > 0) row.add(1); // last element
-            
-            result.add(row);
+
+            main.add(list);
         }
-        
-        return result;
+
+        return main;
     }
 }
