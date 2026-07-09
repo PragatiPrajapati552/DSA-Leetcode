@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0118-pascals-triangle) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/1901-find-a-peak-element-ii) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
