@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0118-pascals-triangle) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
