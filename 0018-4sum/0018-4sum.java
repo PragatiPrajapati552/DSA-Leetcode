@@ -9,37 +9,35 @@ class Solution {
             for(int j=i+1;j<nums.length-2;j++){
                 if(j>i+1 && nums[j] == nums[j-1])
                 continue;
-
                 int left = j+1;
                 int right = nums.length-1;
-                 while (left < right) {
+                while (left < right) {
+                List<Integer> list = new ArrayList<>();
 
-                    long sum = (long) nums[i] + nums[j] + nums[left] + nums[right];
-
-                    if (sum == target) {
-
-                        ans.add(Arrays.asList(nums[i], nums[j], nums[left], nums[right]));
-
+                    long sum =(long) nums[i] + nums[j]+nums[left]+nums[right];
+                    if(sum == target){
+                        list.add(nums[i]);
+                        list.add( nums[j]);
+                        list.add(nums[left]);
+                        list.add(nums[right]);
+                        ans.add(list);
                         left++;
                         right--;
 
-                        while (left < right && nums[left] == nums[left - 1])
-                            left++;
-
-                        while (left < right && nums[right] == nums[right + 1])
-                            right--;
-
-                    }
-                    else if (sum < target) {
+                        while(left<right && nums[left] == nums[left-1])
                         left++;
-                    }
-                    else {
+                        while( left<right && nums[right] == nums[right+1])
                         right--;
+                        
                     }
+                    else if(sum < target)
+                    left++;
+                    else if(sum > target)
+                    right--;
+
                 }
             }
             
-
         }
         return ans;
         
