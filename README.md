@@ -72,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0229-majority-element-ii) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
