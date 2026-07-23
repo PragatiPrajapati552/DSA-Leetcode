@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -67,14 +69,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 ## String
 |  |
