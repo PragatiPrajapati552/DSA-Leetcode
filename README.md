@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0229-majority-element-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Counting
 |  |
 | ------- |
