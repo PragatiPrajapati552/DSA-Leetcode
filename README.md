@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -94,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0796-rotate-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
