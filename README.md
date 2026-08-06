@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0435-non-overlapping-intervals](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,4 +158,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
