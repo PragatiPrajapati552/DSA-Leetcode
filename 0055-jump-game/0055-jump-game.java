@@ -2,7 +2,7 @@ class Solution {
     public boolean canJump(int[] nums) {
         int max = 0;
         for(int i=0; i<nums.length;i++){
-            if(i > max)
+            if(i > max)     // this check whether we can reach till the index or it is out of max reach
             return false;
             max = Math.max(max, nums[i] + i);
             if(max >= nums.length-1)
