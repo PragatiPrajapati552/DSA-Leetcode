@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0796-rotate-string) |
 ## String Matching
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
