@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -104,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Sorting
