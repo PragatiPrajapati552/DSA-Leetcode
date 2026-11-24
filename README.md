@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0344-reverse-string](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/PragatiPrajapati552/DSA-Leetcode/tree/master/0796-rotate-string) |
